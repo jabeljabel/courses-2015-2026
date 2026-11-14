@@ -1,0 +1,7 @@
+# working files — never publish
+_tools/
+_src/
+_review/
+INVENTORY.md
+README.md
+.DS_Store
